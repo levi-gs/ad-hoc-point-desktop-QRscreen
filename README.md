@@ -6,6 +6,7 @@ The idea is that the whole process for the creation of an AD-HOC network, be sim
 
 ---------------------------------------------------------------------------------------------
 To create an AD-HOC network on windows, we need to execute the following commands.
+
 netsh wlan set hostednetwork mode=allow ssid=Test key=password
 
 netsh wlan start hostednetwork
