@@ -6,9 +6,8 @@ transmission of work area through the creation of an AD-HOC network by QR code
 ---------------------------------------------------------------------------------------------
 The idea is that the whole process for the creation of an AD-HOC network, be simplified by the execution and the display of this information in the QR code for the android application posteiromente is reading the QR code and mirroring the Desktop mode.
 
-![0 - Cópia](https://user-images.githubusercontent.com/39824080/90967996-ba134b80-e4bd-11ea-8116-745ff638c92c.jpg)
-![pin](https://user-images.githubusercontent.com/39824080/90968004-c697a400-e4bd-11ea-9a63-38440712b42b.jpg)
-![0 - Cópia (2)](https://user-images.githubusercontent.com/39824080/90968005-ceefdf00-e4bd-11ea-84a6-55daecc3d5cd.jpg)
+![desing system](https://user-images.githubusercontent.com/39824080/90967931-779d3f00-e4bc-11ea-8dc2-1bed38391569.png)
+
 ---------------------------------------------------------------------------------------------
 To create an AD-HOC network on windows, we need to execute the following commands.
 
