@@ -28,5 +28,6 @@ We just need to channel the WIFI string: WIFI:S:<SSID>;T:<WPA|WEP|>;P:<password>
 The project itself requires the development of a QR code reader, and subsequently the execution code for sending the transmission of the android desktop mode.
 ---------------------------------------------------------------------------------------------
 ![funcionamento - Cópia - Cópia - Cópia](https://user-images.githubusercontent.com/39824080/90968404-445dae80-e4c2-11ea-9cf6-192108b09ef5.png)
+![funcionamento - Cópia - Cópia - Cópia](https://user-images.githubusercontent.com/39824080/90993646-0a58df00-e58c-11ea-89df-56fa4707a31a.png)
 
 ---------------------------------------------------------------------------------------------
