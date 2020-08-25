@@ -31,3 +31,5 @@ The project itself requires the development of a QR code reader, and subsequentl
 ![funcionamento - Cópia - Cópia - Cópia](https://user-images.githubusercontent.com/39824080/90993646-0a58df00-e58c-11ea-89df-56fa4707a31a.png)
 
 ---------------------------------------------------------------------------------------------
+![94394286_4353237894702288_6897502007456694272_o](https://user-images.githubusercontent.com/39824080/91239329-a2360480-e715-11ea-90dd-1e8cb564ab0b.jpg)
+![testsdfsafdasdfas](https://user-images.githubusercontent.com/39824080/91239357-b843c500-e715-11ea-8e69-d84e46964892.png)
